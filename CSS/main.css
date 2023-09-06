@@ -1,7 +1,15 @@
-.cab{
-    background-color: yellow;
+*{
+    padding: auto;
+}
+
+.nome_emp{
     text-align: center;
-    padding: 10px;
-    height: auto;
-    width: auto;
+}
+
+.sub{
+    text-align: center;
+}
+
+.img{
+    text-align: center;
 }
