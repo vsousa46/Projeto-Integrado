@@ -13,10 +13,26 @@
 }
 
 .sub{
-    margin-top: -88px;
-    text-align: center;
+    position: absolute;
+    top: 14%;
+    left: 41%;
+    align-items: center;
 }
 
+.sub a{
+    display: inline-flex;
+    width: 60px;
+    height: 60px;
+    justify-content: center;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+
+.sub a:hover{
+    background: #2c3e50;
+}
+
+ 
 .img{
     margin-top: -80px;
     text-align: center;
