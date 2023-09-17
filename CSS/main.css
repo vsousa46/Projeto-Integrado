@@ -8,15 +8,11 @@
     background: #f1f1f1;
 }
 
-.nome_emp{
-    text-align: center;
-}
-
 .sub{
-    position: absolute;
+    margin-top: -100px;
     top: 14%;
     left: 41%;
-    align-items: center;
+    text-align: center;
 }
 
 .sub a{
@@ -31,7 +27,6 @@
 .sub a:hover{
     background: #112c47;
 }
-
  
 .img{
     margin-top: -80px;
@@ -39,5 +34,15 @@
 }
 
 .img2{
+    text-align: center;
+}
+
+.map{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.titulo{
+    margin-top: -50px;
     text-align: center;
 }
