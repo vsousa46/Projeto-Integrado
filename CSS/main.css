@@ -51,3 +51,20 @@
     
     text-align: center;
 }
+
+.coperi{
+    text-align: center;
+    position: relative;
+    margin-top: 750px;
+}
+
+.inicio{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 17px;
+}
+
+button{
+    height: 30px;
+    width: 200px;
+}
