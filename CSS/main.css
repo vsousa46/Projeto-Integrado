@@ -74,3 +74,43 @@ button{
     margin-top: -80px;
     font-size: 17px;
 }
+
+.contato{
+    text-align: center;
+    margin-top: -80px;
+    margin-bottom: 70px;
+    font-size: 17px;
+}
+
+.mensagemtwo{
+    margin-left: 15px;
+}
+
+.mensagem{
+    margin-left: 15px;
+    margin-top: 8px;
+}
+
+.nome{
+    margin-left: 15px;
+}
+
+.email{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.bott-mens{
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.box{
+    text-align: center;
+    margin-top: 500px
+}
+
+.coperi_cont{
+    margin-top: 50px;
+    text-align: center;
+}
