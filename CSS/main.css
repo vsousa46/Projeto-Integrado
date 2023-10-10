@@ -6,7 +6,8 @@
 }
 
 body{
-    background: #f1f1f1f1;
+    background: white;
+    font-family: Arial, sans-serif;
 }
 
 .sub{
@@ -204,4 +205,13 @@ button{
     text-align: center;
     position: relative;
     margin-top: 200px;
+}
+
+.produto {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-right: 10px; /* Espaço entre as divs */
+    float: left;
+    width: calc(33.33% - 10px); /* Para garantir que haja espaço suficiente entre as divs */
+    box-sizing: border-box; /* Para incluir padding e borda na largura da div */
 }
