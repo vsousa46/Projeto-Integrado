@@ -199,12 +199,12 @@ button{
 
 .nsspdt{
     text-align: center;
+    margin-left: 850px;
 }
 
 .coperi_prod{
     text-align: center;
-    position: relative;
-    margin-top: 200px;
+    margin-top: 900px;
 }
 
 .produto {
@@ -214,4 +214,9 @@ button{
     float: left;
     width: calc(33.33% - 10px); /* Para garantir que haja espaço suficiente entre as divs */
     box-sizing: border-box; /* Para incluir padding e borda na largura da div */
+}
+
+.prod_name{
+    text-align: center;
+    margin-top: 100px;
 }
